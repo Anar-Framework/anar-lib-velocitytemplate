@@ -236,7 +236,7 @@ public class TemplatemanagerTest {
 
 		StringWriter writer = new StringWriter();
 		Map<String, Object> values = new HashMap<>();
-		values.put("name", "Abhishek");
+		values.put("name", "Badar");
 		templateManager.merge("dem245.vm", writer, values, "UTF-8");
 
 	}
