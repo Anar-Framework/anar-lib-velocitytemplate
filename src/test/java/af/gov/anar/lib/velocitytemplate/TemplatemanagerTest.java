@@ -73,7 +73,6 @@ public class TemplatemanagerTest {
 	}
 
 	@Test
-
 	public void testEvaluate() throws IOException {
 
 		InputStream is = this.getClass().getClassLoader().getResourceAsStream("test.vm");
