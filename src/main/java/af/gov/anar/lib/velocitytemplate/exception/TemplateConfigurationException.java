@@ -1,6 +1,7 @@
 package af.gov.anar.lib.velocitytemplate.exception;
 
 
+import af.gov.anar.lang.infrastructure.exception.common.BaseUncheckedException;
 
 /**
  * TemplateConfigurationException if problem occurs while Configuring the

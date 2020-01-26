@@ -1,6 +1,8 @@
 package af.gov.anar.lib.velocitytemplate.exception;
 
 
+import af.gov.anar.lang.infrastructure.exception.common.BaseUncheckedException;
+
 /**
  * this exception thrown when a resource of any type isn't found by the template
  * manager. <br>
