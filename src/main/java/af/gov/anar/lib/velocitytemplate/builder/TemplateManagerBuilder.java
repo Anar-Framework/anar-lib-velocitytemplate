@@ -1,5 +1,7 @@
 package af.gov.anar.lib.velocitytemplate.builder;
 
+import af.gov.anar.lib.velocitytemplate.manager.TemplateManager;
+
 /**
  * TemplateManagerBuilder will build the {@link TemplateManager} with the
  * configuration either custom or default.

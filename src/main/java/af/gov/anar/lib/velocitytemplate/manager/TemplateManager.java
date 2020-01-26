@@ -1,4 +1,4 @@
-package af.gov.anar.lib.velocitytemplate.builder;
+package af.gov.anar.lib.velocitytemplate.manager;
 
 import java.io.IOException;
 import java.io.InputStream;
