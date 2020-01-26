@@ -1,6 +1,6 @@
 package af.gov.anar.lib.velocitytemplate.exception;
 
-import af.asr.templatemanager.exception.common.BaseUncheckedException;
+
 
 /**
  * this exception thrown when a resource of any type has a syntax or other error

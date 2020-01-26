@@ -1,6 +1,6 @@
 package af.gov.anar.lib.velocitytemplate.exception;
 
-import af.asr.templatemanager.exception.common.BaseUncheckedException;
+
 
 /**
  * TemplateMethodInvocationException when reference method in template could not
